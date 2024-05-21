@@ -23,7 +23,7 @@ Este curso está integrado con GitHub Codespaces, un entorno de desarrollo insta
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/eliezer-lopez).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
+[lil-course-url]: https://www.linkedin.com/learning/c-plus-plus-construye-redes-neuronales
 [lil-thumbnail-url]: https://media.licdn.com/dms/image/D4D0DAQHBbT6u7A99Bg/learning-public-crop_675_1200/0/1715935915617?e=2147483647&v=beta&t=0uo0R3r95top0ozcDWcpxWpG7LkTXFuAjEMdP4uv4jM
 
 
