@@ -21,7 +21,7 @@ En este repositorio encontrarás un listado de carpetas. Cada carpeta correspond
 
 Este curso está integrado con GitHub Codespaces, un entorno de desarrollo instantáneo alojado en la nube que ofrece toda la funcionalidad de tu IDE favorito sin tener que configurar una máquina local. Con Codespaces puedes practicar en cualquier lugar y desde cualquier dispositivo, de modo que no necesitas instalar ninguna otra herramienta.
 
-### Docente
+## Docente
 
 **Eliezer López**
 
